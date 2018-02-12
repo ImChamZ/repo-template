@@ -1,4 +1,5 @@
 # Project Name
+[![LICENSE](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/huawei-clouds/template/blob/master/LICENSE)
 
 Project description.
 
